@@ -5,7 +5,11 @@
     "description": "JPC Is cool"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Shy"
+      }
+    ],
     "diagrams": [
       {
         "title": "System Wide",
